@@ -91,5 +91,3 @@ Fully-documented class TransplantDriver which acts as the main driver for the ap
 		- (O) Sort by Organ Donated
 		- (Q) Back to Main Menu
 	- (Q) - Quit
-
-6. Additional Classes for Exceptions thrown.
